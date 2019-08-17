@@ -30,5 +30,6 @@ int main() {
    for(loop = 0; loop < d; loop++)
       printf(" %d", odd[loop]);   
    printf("\n");
+   _cpPrintFunction();
    return 0;
 }
