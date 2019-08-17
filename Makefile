@@ -4,7 +4,7 @@ SRCS=array.c print.c
 EXEC=output
 
 all:
-	$(CC) $(SRCS) -o $(EXEC).o
+	$(CC) $(SRCS) -o $(EXEC)
 
 clean:
-	-rm -rf *.o
+	-rm -rf $(EXEC)
