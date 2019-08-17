@@ -29,6 +29,6 @@ int main() {
    printf("\n 奇数 -> ");
    for(loop = 0; loop < d; loop++)
       printf(" %d", odd[loop]);   
-   
+   printf("\n");
    return 0;
 }
