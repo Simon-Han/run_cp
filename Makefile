@@ -1,6 +1,6 @@
 #sample makefile script
 CC=gcc
-SRCS=array.c
+SRCS=array.c print.c
 EXEC=output
 
 all:
