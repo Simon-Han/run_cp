@@ -1,1 +1,4 @@
 1 如果切换到新的branch修改内容，不会影响到master。
+
+3 使用git tag。
+  默认git tag是打在最新提交的commit上的
